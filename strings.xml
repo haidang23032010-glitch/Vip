@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Auto Tool</string>
+    <string name="service_description">Tool tự động phân tích giao diện và thao tác theo State Machine (Chờ - Nhấn nút - Đợi - Quay lại).</string>
+</resources>

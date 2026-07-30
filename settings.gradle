@@ -1,0 +1,2 @@
+rootProject.name = "AutoTool"
+include ':app'
